@@ -47,7 +47,7 @@ function draw(){
 
   image(issIMG, x - issIMG.width / 2, y - issIMG.height / 2);
 
-  textSize(16);
+  textSize(36);
   textAlign(CENTER);
   fill(255);
   text("Lat: " + lat + ", Long: " + long, x, y + 50);
