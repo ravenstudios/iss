@@ -1,0 +1,15 @@
+html{
+      zoom: 0.7; /* Old IE only */
+          -moz-transform: scale(0.7);
+          -webkit-transform: scale(0.7);
+          transform: scale(0.7);
+    }
+body{
+  background-color: black;
+  
+  text-align: center;
+}
+
+.canvas{
+
+}
